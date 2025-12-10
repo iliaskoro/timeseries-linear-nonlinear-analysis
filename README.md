@@ -35,6 +35,7 @@ A final report and surrogate-based statistical comparisons will be added in a fu
 
 <h2>Project Structure</h2>
 
+```
 /
 ├── data/
 │   ├── BTCUSDT.csv
@@ -47,6 +48,7 @@ A final report and surrogate-based statistical comparisons will be added in a fu
 │   └── NonLinearTimeSeriesAnalysis.ipynb
 │
 └── README.md
+```
 
 <h2>Project Status</h2>
 
@@ -80,4 +82,5 @@ pip install numpy scipy statsmodels scikit-learn matplotlib nolds nolitsa
 
 - The nonlinear pipeline includes both deterministic and stochastic modeling techniques.
 - Real and synthetic data experiments are separated for clarity and reproducibility.
+
 - Additional documentation and visual outputs will be added in the final update.

@@ -76,7 +76,9 @@ Python Packages:
 - nolds
 - nolitsa
 
+```
 pip install numpy scipy statsmodels scikit-learn matplotlib nolds nolitsa
+```
 
 <h2>Notes</h2>
 
@@ -84,3 +86,4 @@ pip install numpy scipy statsmodels scikit-learn matplotlib nolds nolitsa
 - Real and synthetic data experiments are separated for clarity and reproducibility.
 
 - Additional documentation and visual outputs will be added in the final update.
+
